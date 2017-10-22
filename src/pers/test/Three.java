@@ -30,7 +30,7 @@ public class Three {
 				tempList.add(list.get(i));
 			}
 		}
-		getItem(tempList,index%3);
+		getItem(tempList,index % 3);
 	}
 
 }

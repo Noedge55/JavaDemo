@@ -1,4 +1,4 @@
-package testdemo.one;
+package pers.test;
 
 import java.util.Arrays;
 import java.util.Random;
