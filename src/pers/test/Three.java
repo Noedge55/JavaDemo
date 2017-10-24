@@ -4,6 +4,13 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
+/**
+ * 有n个人(1到n号)围成一个圈，从第1号按顺序报数(1-3)，每报数为3的人从队伍去除，下个人继续从1开始报数，问最后剩下的那个人原来排在第几位
+ * 博客地址：http://blog.csdn.net/noedge/article/details/78309987
+ * @author Noedge
+ * 
+ */
+
 public class Three {
 
 	public static void main(String[] args) {
